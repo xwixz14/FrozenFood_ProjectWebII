@@ -1,3 +1,4 @@
+import Footer from "@/components/footer/page";
 import Gallery from "@/components/gallery/page";
 import Menu from "@/components/menu/page";
 import Navbar from "@/components/navbar/page";
@@ -12,6 +13,7 @@ export default function Home() {
 
       <Menu />
       <Gallery />
+      <Footer />
     </>
   );
 }
