@@ -18,7 +18,7 @@ Website e-catalog - nuju space ini dibuat sebagai project akhir mata kuliah Pemo
 ## Cara membuka websitenya
 
 - Cloning Repository menggunakan terminal dengan perintah berikut :
-  git clone https://github.com/ferico-uti/final-class-project.git
+  https://github.com/xwixz14/FrozenFood_ProjectWebII.git
 - Setelah proses cloning dilakukan, buka project dan jalankan perintah berikut menggunakan terminal :
   npm i
 - Running project dengan perintah berikut menggunakan terminal :
