@@ -25,24 +25,6 @@ function Menu() {
           <div className=" w-[100%] h-[95%] outline outline-color2 rounded-lg  ">
             <div className="  w-[100%] h-[85%] outline outline-color2 rounded-lg">
               <img
-                src="/images/menu/menu1.jpg"
-                alt=""
-                className="object-cover w-[100%] h-[100%] rounded-lg"
-              />
-            </div>
-            <div className="p-2">
-              <h1
-                className={`${roboto_condensed} font-bold text-2xl text-color1 drop-shadow-2xl `}
-              >
-                Rice Bowl
-              </h1>
-              <p className={`${poppins} font-medium text-lg `}>Rp. 18.000</p>
-            </div>
-          </div>
-
-          <div className=" w-[100%] h-[95%] outline outline-color2 rounded-lg  ">
-            <div className="  w-[100%] h-[85%] outline outline-color2 rounded-lg">
-              <img
                 src="/images/menu/menu2.jpg"
                 alt=""
                 className="object-cover w-[100%] h-[100%] rounded-lg"
