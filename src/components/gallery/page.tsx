@@ -25,6 +25,20 @@ function Gallery() {
           </h1>
         </div>
         <div className="carousel rounded-box w-full h-96 ">
+          <div className="carousel-item ">
+            <img
+              src="/images/gallery/gallery1.jpg"
+              alt="Burger"
+              className="w-[100%] h-[100%] rounded-lg"
+            />
+          </div>
+          <div className="carousel-item">
+            <img
+              src="/images/gallery/gallery2.jpg"
+              alt="Burger"
+              className="w-[100%] h-[100%] rounded-lg"
+            />
+          </div>
           <div className="carousel-item">
             <img
               src="/images/gallery/gallery3.jpg"
