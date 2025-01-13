@@ -9,6 +9,20 @@ function Footer() {
           Contact me
         </h1>
 
+        <footer className="bg-base-200 text-base-content p-4 md:p-10">
+          <div className="flex items-center justify-center">
+            <Link href="#">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.1019641459343!2d105.284838!3d-5.401434400000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e40dbdf73add9c7%3A0xcae70f92b331e91a!2sNuju%20Coffee%20%26%20Space!5e0!3m2!1sid!2sid!4v1735023418502!5m2!1sid!2sid"
+                width="800"
+                height="300"
+                style={{ border: 0.2 }}
+                loading="lazy"
+              ></iframe>
+            </Link>
+          </div>
+        </footer>
+
         <footer className="bg-base-200 text-base-content border-t border-base-300 px-4 md:px-10 py-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <aside className="flex flex-col md:flex-row items-center md:items-start gap-4">
