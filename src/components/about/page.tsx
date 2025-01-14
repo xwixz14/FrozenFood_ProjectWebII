@@ -55,7 +55,7 @@ function About() {
 
           <div className="md:col-start-2 md:row-start-4">
             <p className="text-wrap w-full text-md text-justify">
-              Berlokasi di pusat Kota Bandar Lampung, Jl. P. Antasari No.99, Tj.
+              Caffe ini Berlokasi di pusat Kota Bandar Lampung, Jl. P. Antasari No.99, Tj.
               Baru, Kec. Sukabumi, Kota Bandar Lampung, Lampung 35122 Nuju Space
               menjadi salah satu pilihan tempat yang wajib dkunjungi karena
               selain pilihan menunya yang lezat juga memiliki spot-spot foto
