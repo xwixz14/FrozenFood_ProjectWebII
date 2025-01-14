@@ -123,6 +123,13 @@ function Gallery() {
               className="w-[100%] h-[100%] rounded-lg"
             />
           </div>
+          <div className="carousel-item">
+            <img
+              src="/images/gallery/gallery15.jpg"
+              alt="Burger"
+              className="w-[100%] h-[100%] rounded-lg"
+            />
+          </div>
         </div>
       </div>
     </>
